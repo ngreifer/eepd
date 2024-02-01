@@ -26,17 +26,15 @@
 #' 
 #' # Fit the models to data; unit_var must be supplied for
 #' # fixed effects
-#' cl <- parallel::detectCores()
 #' boot_out <- eepd_boot(models, data = ptpdata,
 #'                       nboot = 99, nsim = 100,
 #'                       group_var = "group",
 #'                       time_var = "year",
 #'                       val_times = 1999:2003,
 #'                       post_time = 2008,
-#'                       unit_var = "state",
-#'                       cl = cl, verbose = TRUE)
+#'                       unit_var = "state")
 #' 
-#' summary(boot_out, ci.type = "perc")
+#' summary(boot_out, ci.type = "norm")
 
 #' @export 
 eepd_boot <- function(models, data, nboot = 999, boot_type = getOption("fwb_wtype", "exp"), nsim = 200,

@@ -71,9 +71,7 @@ est
 plot(est)
 
 # Simulate average prediction errors and ATTs
-cl <- parallel::detectCores()
-est_sim <- eepd_sim(fits, nsim = 100,
-                    cl = cl, verbose = TRUE)
+est_sim <- eepd_sim(fits, nsim = 100)
 
 est_sim
 
