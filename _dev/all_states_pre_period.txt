@@ -1,0 +1,287 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval	Age Adjusted Rate Standard Error
+	"Alabama"	"01"	"1994"	"1994"	432	4262457	10.1	9.9	8.9	10.8	0.5
+	"Alabama"	"01"	"1995"	"1995"	400	4298981	9.3	9.1	8.2	10.0	0.5
+	"Alabama"	"01"	"1996"	"1996"	382	4334219	8.8	8.7	7.8	9.6	0.4
+	"Alabama"	"01"	"1997"	"1997"	371	4370490	8.5	8.4	7.5	9.2	0.4
+	"Alabama"	"01"	"1998"	"1998"	326	4408398	7.4	7.3	6.5	8.1	0.4
+	"Alaska"	"02"	"1994"	"1994"	21	603918	3.5	3.3	2.0	5.0	0.7
+	"Alaska"	"02"	"1995"	"1995"	32	605068	5.3	5.3	3.5	7.8	1.0
+	"Alaska"	"02"	"1996"	"1996"	29	609231	4.8	4.5	3.0	6.6	0.9
+	"Alaska"	"02"	"1997"	"1997"	31	613530	5.1	4.5	3.1	6.5	0.8
+	"Alaska"	"02"	"1998"	"1998"	28	620503	4.5	4.3	2.9	6.3	0.8
+	"Arizona"	"04"	"1994"	"1994"	324	4247728	7.6	7.4	6.6	8.2	0.4
+	"Arizona"	"04"	"1995"	"1995"	382	4433841	8.6	8.4	7.6	9.3	0.4
+	"Arizona"	"04"	"1996"	"1996"	298	4589841	6.5	6.5	5.7	7.2	0.4
+	"Arizona"	"04"	"1997"	"1997"	285	4739994	6.0	5.9	5.2	6.6	0.4
+	"Arizona"	"04"	"1998"	"1998"	292	4886250	6.0	5.8	5.2	6.5	0.3
+	"Arkansas"	"05"	"1994"	"1994"	205	2494910	8.2	8.2	7.1	9.3	0.6
+	"Arkansas"	"05"	"1995"	"1995"	212	2535835	8.4	8.4	7.2	9.5	0.6
+	"Arkansas"	"05"	"1996"	"1996"	164	2573244	6.4	6.4	5.4	7.4	0.5
+	"Arkansas"	"05"	"1997"	"1997"	196	2602253	7.5	7.6	6.6	8.7	0.5
+	"Arkansas"	"05"	"1998"	"1998"	155	2627564	5.9	6.0	5.1	6.9	0.5
+	"California"	"06"	"1994"	"1994"	2938	31505058	9.3	8.9	8.6	9.2	0.2
+	"California"	"06"	"1995"	"1995"	2677	31719735	8.4	8.1	7.8	8.4	0.2
+	"California"	"06"	"1996"	"1996"	2152	32046821	6.7	6.5	6.2	6.8	0.1
+	"California"	"06"	"1997"	"1997"	1975	32514514	6.1	5.9	5.6	6.2	0.1
+	"California"	"06"	"1998"	"1998"	1573	33021362	4.8	4.6	4.4	4.9	0.1
+	"Colorado"	"08"	"1994"	"1994"	133	3725509	3.6	3.3	2.8	3.9	0.3
+	"Colorado"	"08"	"1995"	"1995"	119	3827609	3.1	3.0	2.5	3.5	0.3
+	"Colorado"	"08"	"1996"	"1996"	110	3921395	2.8	2.7	2.2	3.2	0.3
+	"Colorado"	"08"	"1997"	"1997"	92	4018882	2.3	2.2	1.8	2.7	0.2
+	"Colorado"	"08"	"1998"	"1998"	112	4118190	2.7	2.6	2.1	3.1	0.2
+	"Connecticut"	"09"	"1994"	"1994"	145	3316918	4.4	4.5	3.7	5.2	0.4
+	"Connecticut"	"09"	"1995"	"1995"	104	3324324	3.1	3.2	2.6	3.8	0.3
+	"Connecticut"	"09"	"1996"	"1996"	119	3337947	3.6	3.7	3.0	4.4	0.3
+	"Connecticut"	"09"	"1997"	"1997"	80	3349822	2.4	2.5	2.0	3.2	0.3
+	"Connecticut"	"09"	"1998"	"1998"	90	3366615	2.7	2.8	2.3	3.5	0.3
+	"Delaware"	"10"	"1994"	"1994"	18	717867	2.5 (Unreliable)	2.5 (Unreliable)	1.5	3.9	0.6
+	"Delaware"	"10"	"1995"	"1995"	19	730099	2.6 (Unreliable)	2.6 (Unreliable)	1.6	4.1	0.6
+	"Delaware"	"10"	"1996"	"1996"	31	741330	4.2	4.1	2.8	5.8	0.7
+	"Delaware"	"10"	"1997"	"1997"	15	751824	2.0 (Unreliable)	1.9 (Unreliable)	1.1	3.2	0.5
+	"Delaware"	"10"	"1998"	"1998"	15	763841	2.0 (Unreliable)	2.0 (Unreliable)	1.1	3.2	0.5
+	"District of Columbia"	"11"	"1994"	"1994"	267	591238	45.2	40.6	35.6	45.5	2.5
+	"District of Columbia"	"11"	"1995"	"1995"	249	582247	42.8	38.9	34.0	43.8	2.5
+	"District of Columbia"	"11"	"1996"	"1996"	251	573994	43.7	40.3	35.2	45.4	2.6
+	"District of Columbia"	"11"	"1997"	"1997"	202	569116	35.5	34.1	29.4	38.9	2.4
+	"District of Columbia"	"11"	"1998"	"1998"	147	566630	25.9	23.1	19.3	26.9	1.9
+	"Florida"	"12"	"1994"	"1994"	886	14244848	6.2	6.5	6.1	7.0	0.2
+	"Florida"	"12"	"1995"	"1995"	809	14544358	5.6	5.8	5.4	6.2	0.2
+	"Florida"	"12"	"1996"	"1996"	758	14860585	5.1	5.4	5.0	5.8	0.2
+	"Florida"	"12"	"1997"	"1997"	722	15194344	4.8	5.0	4.6	5.3	0.2
+	"Florida"	"12"	"1998"	"1998"	676	15496518	4.4	4.6	4.2	4.9	0.2
+	"Georgia"	"13"	"1994"	"1994"	581	7161196	8.1	7.7	7.1	8.3	0.3
+	"Georgia"	"13"	"1995"	"1995"	521	7333169	7.1	6.7	6.1	7.3	0.3
+	"Georgia"	"13"	"1996"	"1996"	524	7506543	7.0	6.6	6.0	7.2	0.3
+	"Georgia"	"13"	"1997"	"1997"	444	7691435	5.8	5.5	5.0	6.0	0.3
+	"Georgia"	"13"	"1998"	"1998"	429	7870311	5.5	5.1	4.6	5.6	0.2
+	"Hawaii"	"15"	"1994"	"1994"	23	1188875	1.9	1.9	1.2	2.8	0.4
+	"Hawaii"	"15"	"1995"	"1995"	27	1198027	2.3	2.1	1.4	3.1	0.4
+	"Hawaii"	"15"	"1996"	"1996"	18	1205599	1.5 (Unreliable)	1.5 (Unreliable)	0.9	2.3	0.4
+	"Hawaii"	"15"	"1997"	"1997"	17	1213103	1.4 (Unreliable)	1.4 (Unreliable)	0.8	2.2	0.3
+	"Idaho"	"16"	"1994"	"1994"	24	1145272	2.1	2.1	1.3	3.1	0.4
+	"Idaho"	"16"	"1995"	"1995"	26	1177589	2.2	2.2	1.4	3.2	0.4
+	"Idaho"	"16"	"1996"	"1996"	32	1203432	2.7	2.6	1.8	3.7	0.5
+	"Idaho"	"16"	"1997"	"1997"	25	1228543	2.0	2.1	1.4	3.1	0.4
+	"Idaho"	"16"	"1998"	"1998"	18	1252682	1.4 (Unreliable)	1.4 (Unreliable)	0.8	2.3	0.3
+	"Illinois"	"17"	"1994"	"1994"	1043	11919512	8.8	8.5	8.0	9.0	0.3
+	"Illinois"	"17"	"1995"	"1995"	858	12014530	7.1	6.9	6.5	7.4	0.2
+	"Illinois"	"17"	"1996"	"1996"	888	12109540	7.3	7.2	6.7	7.7	0.2
+	"Illinois"	"17"	"1997"	"1997"	835	12192249	6.8	6.7	6.3	7.2	0.2
+	"Illinois"	"17"	"1998"	"1998"	780	12281911	6.4	6.2	5.8	6.7	0.2
+	"Indiana"	"18"	"1994"	"1994"	321	5794799	5.5	5.3	4.7	5.9	0.3
+	"Indiana"	"18"	"1995"	"1995"	323	5852819	5.5	5.3	4.7	5.9	0.3
+	"Indiana"	"18"	"1996"	"1996"	285	5908417	4.8	4.7	4.1	5.2	0.3
+	"Indiana"	"18"	"1997"	"1997"	318	5956292	5.3	5.2	4.6	5.8	0.3
+	"Indiana"	"18"	"1998"	"1998"	293	6001025	4.9	4.8	4.2	5.3	0.3
+	"Iowa"	"19"	"1994"	"1994"	29	2851451	1.0	1.0	0.7	1.4	0.2
+	"Iowa"	"19"	"1995"	"1995"	32	2868091	1.1	1.1	0.8	1.6	0.2
+	"Iowa"	"19"	"1996"	"1996"	38	2880950	1.3	1.3	0.9	1.8	0.2
+	"Iowa"	"19"	"1997"	"1997"	27	2891288	0.9	0.9	0.6	1.3	0.2
+	"Iowa"	"19"	"1998"	"1998"	39	2903589	1.3	1.4	1.0	1.9	0.2
+	"Kansas"	"20"	"1994"	"1994"	127	2581640	4.9	4.8	4.0	5.7	0.4
+	"Kansas"	"20"	"1995"	"1995"	119	2602226	4.6	4.5	3.7	5.3	0.4
+	"Kansas"	"20"	"1996"	"1996"	99	2615563	3.8	3.7	3.0	4.5	0.4
+	"Kansas"	"20"	"1997"	"1997"	102	2636018	3.9	3.8	3.1	4.6	0.4
+	"Kansas"	"20"	"1998"	"1998"	108	2661727	4.1	4.0	3.2	4.8	0.4
+	"Kentucky"	"21"	"1994"	"1994"	165	3850039	4.3	4.2	3.6	4.8	0.3
+	"Kentucky"	"21"	"1995"	"1995"	167	3887959	4.3	4.2	3.6	4.8	0.3
+	"Kentucky"	"21"	"1996"	"1996"	147	3920721	3.7	3.7	3.1	4.3	0.3
+	"Kentucky"	"21"	"1997"	"1997"	168	3953242	4.2	4.2	3.5	4.8	0.3
+	"Kentucky"	"21"	"1998"	"1998"	174	3987167	4.4	4.3	3.7	4.9	0.3
+	"Louisiana"	"22"	"1994"	"1994"	740	4349878	17.0	16.3	15.1	17.4	0.6
+	"Louisiana"	"22"	"1995"	"1995"	605	4380949	13.8	13.3	12.2	14.4	0.5
+	"Louisiana"	"22"	"1996"	"1996"	619	4401947	14.1	13.4	12.4	14.5	0.5
+	"Louisiana"	"22"	"1997"	"1997"	536	4424355	12.1	11.7	10.7	12.7	0.5
+	"Louisiana"	"22"	"1998"	"1998"	443	4443537	10.0	9.6	8.7	10.5	0.5
+	"Maine"	"23"	"1994"	"1994"	20	1242842	1.6	1.6	1.0	2.5	0.4
+	"Maine"	"23"	"1995"	"1995"	11	1243566	0.9 (Unreliable)	0.9 (Unreliable)	0.4	1.5	0.3
+	"Maine"	"23"	"1996"	"1996"	13	1249196	1.0 (Unreliable)	1.0 (Unreliable)	0.6	1.8	0.3
+	"Maine"	"23"	"1997"	"1997"	10	1254858	0.8 (Unreliable)	0.8 (Unreliable)	0.4	1.5	0.3
+	"Maine"	"23"	"1998"	"1998"	11	1259375	0.9 (Unreliable)	0.9 (Unreliable)	0.4	1.6	0.3
+	"Maryland"	"24"	"1994"	"1994"	452	5023845	9.0	8.8	8.0	9.6	0.4
+	"Maryland"	"24"	"1995"	"1995"	459	5070237	9.1	9.0	8.2	9.8	0.4
+	"Maryland"	"24"	"1996"	"1996"	436	5113159	8.5	8.5	7.7	9.3	0.4
+	"Maryland"	"24"	"1997"	"1997"	417	5156659	8.1	8.1	7.4	8.9	0.4
+	"Maryland"	"24"	"1998"	"1998"	389	5205894	7.5	7.6	6.8	8.3	0.4
+	"Massachusetts"	"25"	"1994"	"1994"	143	6096823	2.3	2.3	1.9	2.7	0.2
+	"Massachusetts"	"25"	"1995"	"1995"	123	6141664	2.0	1.9	1.6	2.3	0.2
+	"Massachusetts"	"25"	"1996"	"1996"	92	6180890	1.5	1.5	1.2	1.9	0.2
+	"Massachusetts"	"25"	"1997"	"1997"	72	6227915	1.2	1.2	0.9	1.5	0.1
+	"Massachusetts"	"25"	"1998"	"1998"	64	6275021	1.0	1.0	0.8	1.3	0.1
+	"Michigan"	"26"	"1994"	"1994"	741	9601374	7.7	7.5	7.0	8.0	0.3
+	"Michigan"	"26"	"1995"	"1995"	662	9678159	6.8	6.7	6.2	7.2	0.3
+	"Michigan"	"26"	"1996"	"1996"	564	9761416	5.8	5.6	5.2	6.1	0.2
+	"Michigan"	"26"	"1997"	"1997"	545	9811768	5.6	5.5	5.0	5.9	0.2
+	"Michigan"	"26"	"1998"	"1998"	509	9851606	5.2	5.1	4.7	5.6	0.2
+	"Minnesota"	"27"	"1994"	"1994"	92	4611776	2.0	2.0	1.6	2.4	0.2
+	"Minnesota"	"27"	"1995"	"1995"	104	4661111	2.2	2.2	1.8	2.6	0.2
+	"Minnesota"	"27"	"1996"	"1996"	95	4713977	2.0	2.0	1.6	2.4	0.2
+	"Minnesota"	"27"	"1997"	"1997"	78	4764459	1.6	1.6	1.3	2.0	0.2
+	"Minnesota"	"27"	"1998"	"1998"	55	4815103	1.1	1.1	0.8	1.5	0.2
+	"Mississippi"	"28"	"1994"	"1994"	341	2690511	12.7	12.4	11.1	13.8	0.7
+	"Mississippi"	"28"	"1995"	"1995"	284	2724100	10.4	10.2	9.0	11.4	0.6
+	"Mississippi"	"28"	"1996"	"1996"	262	2749883	9.5	9.3	8.2	10.5	0.6
+	"Mississippi"	"28"	"1997"	"1997"	280	2778557	10.1	9.9	8.7	11.1	0.6
+	"Mississippi"	"28"	"1998"	"1998"	227	2807091	8.1	8.0	7.0	9.1	0.5
+	"Missouri"	"29"	"1994"	"1994"	434	5326464	8.1	8.1	7.3	8.9	0.4
+	"Missouri"	"29"	"1995"	"1995"	338	5379909	6.3	6.3	5.6	6.9	0.3
+	"Missouri"	"29"	"1996"	"1996"	317	5434012	5.8	5.8	5.2	6.4	0.3
+	"Missouri"	"29"	"1997"	"1997"	295	5483268	5.4	5.3	4.7	6.0	0.3
+	"Missouri"	"29"	"1998"	"1998"	281	5524750	5.1	5.1	4.5	5.7	0.3
+	"Montana"	"30"	"1994"	"1994"	18	861438	2.1 (Unreliable)	2.1 (Unreliable)	1.2	3.3	0.5
+	"Montana"	"30"	"1995"	"1995"	23	876886	2.6	2.6	1.6	3.9	0.6
+	"Montana"	"30"	"1996"	"1996"	25	886342	2.8	2.9	1.9	4.3	0.6
+	"Montana"	"30"	"1997"	"1997"	24	890120	2.7	2.8	1.8	4.1	0.6
+	"Montana"	"30"	"1998"	"1998"	14	892677	1.6 (Unreliable)	1.6 (Unreliable)	0.8	2.6	0.4
+	"Nebraska"	"31"	"1994"	"1994"	34	1639753	2.1	2.0	1.4	2.9	0.4
+	"Nebraska"	"31"	"1995"	"1995"	45	1657690	2.7	2.7	2.0	3.6	0.4
+	"Nebraska"	"31"	"1996"	"1996"	33	1674423	2.0	1.9	1.3	2.7	0.3
+	"Nebraska"	"31"	"1997"	"1997"	36	1686860	2.1	2.1	1.5	2.9	0.4
+	"Nebraska"	"31"	"1998"	"1998"	34	1696464	2.0	2.0	1.4	2.7	0.3
+	"Nevada"	"32"	"1994"	"1994"	111	1499740	7.4	7.2	5.8	8.6	0.7
+	"Nevada"	"32"	"1995"	"1995"	109	1581963	6.9	6.8	5.5	8.1	0.7
+	"Nevada"	"32"	"1996"	"1996"	127	1666989	7.6	7.4	6.1	8.7	0.7
+	"Nevada"	"32"	"1997"	"1997"	109	1764495	6.2	6.1	5.0	7.3	0.6
+	"Nevada"	"32"	"1998"	"1998"	117	1854096	6.3	6.2	5.1	7.4	0.6
+	"New Hampshire"	"33"	"1994"	"1994"	14	1142653	1.2 (Unreliable)	1.3 (Unreliable)	0.7	2.1	0.3
+	"New Hampshire"	"33"	"1996"	"1996"	10	1174827	0.9 (Unreliable)	0.9 (Unreliable)	0.4	1.6	0.3
+	"New Hampshire"	"33"	"1997"	"1997"	10	1189380	0.8 (Unreliable)	0.9 (Unreliable)	0.4	1.6	0.3
+	"New Jersey"	"34"	"1994"	"1994"	218	8017412	2.7	2.7	2.4	3.1	0.2
+	"New Jersey"	"34"	"1995"	"1995"	253	8085139	3.1	3.1	2.7	3.5	0.2
+	"New Jersey"	"34"	"1996"	"1996"	201	8153445	2.5	2.6	2.2	2.9	0.2
+	"New Jersey"	"34"	"1997"	"1997"	191	8222708	2.3	2.4	2.1	2.8	0.2
+	"New Jersey"	"34"	"1998"	"1998"	164	8293003	2.0	2.1	1.7	2.4	0.2
+	"New Mexico"	"35"	"1994"	"1994"	108	1683067	6.4	6.2	5.0	7.4	0.6
+	"New Mexico"	"35"	"1995"	"1995"	95	1720613	5.5	5.4	4.4	6.6	0.6
+	"New Mexico"	"35"	"1996"	"1996"	110	1753127	6.3	6.2	5.1	7.4	0.6
+	"New Mexico"	"35"	"1997"	"1997"	92	1775156	5.2	5.1	4.1	6.3	0.5
+	"New Mexico"	"35"	"1998"	"1998"	96	1794370	5.4	5.3	4.3	6.4	0.5
+	"New York"	"36"	"1994"	"1994"	1422	18469421	7.7	7.4	7.0	7.8	0.2
+	"New York"	"36"	"1995"	"1995"	1052	18534018	5.7	5.6	5.2	5.9	0.2
+	"New York"	"36"	"1996"	"1996"	874	18601063	4.7	4.6	4.3	4.9	0.2
+	"New York"	"36"	"1997"	"1997"	699	18668538	3.7	3.7	3.4	4.0	0.1
+	"New York"	"36"	"1998"	"1998"	564	18772357	3.0	3.0	2.7	3.2	0.1
+	"North Carolina"	"37"	"1994"	"1994"	572	7190261	8.0	7.5	6.9	8.1	0.3
+	"North Carolina"	"37"	"1995"	"1995"	503	7347430	6.8	6.5	5.9	7.1	0.3
+	"North Carolina"	"37"	"1996"	"1996"	448	7505290	6.0	5.8	5.2	6.3	0.3
+	"North Carolina"	"37"	"1997"	"1997"	449	7660857	5.9	5.7	5.1	6.2	0.3
+	"North Carolina"	"37"	"1998"	"1998"	453	7814558	5.8	5.6	5.0	6.1	0.3
+	"Ohio"	"39"	"1994"	"1994"	419	11154945	3.8	3.7	3.4	4.1	0.2
+	"Ohio"	"39"	"1995"	"1995"	337	11205299	3.0	3.0	2.7	3.3	0.2
+	"Ohio"	"39"	"1996"	"1996"	322	11244913	2.9	2.8	2.5	3.1	0.2
+	"Ohio"	"39"	"1997"	"1997"	291	11279094	2.6	2.6	2.3	2.9	0.2
+	"Ohio"	"39"	"1998"	"1998"	269	11315474	2.4	2.4	2.1	2.7	0.1
+	"Oklahoma"	"40"	"1994"	"1994"	183	3282213	5.6	5.6	4.8	6.4	0.4
+	"Oklahoma"	"40"	"1995"	"1995"	165	3309855	5.0	4.8	4.1	5.6	0.4
+	"Oklahoma"	"40"	"1996"	"1996"	163	3341657	4.9	4.9	4.1	5.6	0.4
+	"Oklahoma"	"40"	"1997"	"1997"	184	3374534	5.5	5.4	4.6	6.2	0.4
+	"Oklahoma"	"40"	"1998"	"1998"	117	3407252	3.4	3.4	2.8	4.0	0.3
+	"Oregon"	"41"	"1994"	"1994"	111	3121913	3.6	3.6	2.9	4.2	0.3
+	"Oregon"	"41"	"1995"	"1995"	93	3185037	2.9	2.9	2.3	3.6	0.3
+	"Oregon"	"41"	"1996"	"1996"	75	3248377	2.3	2.3	1.8	2.9	0.3
+	"Oregon"	"41"	"1997"	"1997"	77	3304834	2.3	2.3	1.8	2.9	0.3
+	"Oregon"	"41"	"1998"	"1998"	88	3354163	2.6	2.6	2.0	3.2	0.3
+	"Pennsylvania"	"42"	"1994"	"1994"	498	12170062	4.1	4.1	3.8	4.5	0.2
+	"Pennsylvania"	"42"	"1995"	"1995"	520	12201314	4.3	4.3	4.0	4.7	0.2
+	"Pennsylvania"	"42"	"1996"	"1996"	509	12225148	4.2	4.3	3.9	4.7	0.2
+	"Pennsylvania"	"42"	"1997"	"1997"	556	12229931	4.5	4.7	4.3	5.1	0.2
+	"Pennsylvania"	"42"	"1998"	"1998"	436	12250692	3.6	3.7	3.4	4.0	0.2
+	"Rhode Island"	"44"	"1994"	"1994"	27	1015892	2.7	2.5	1.6	3.6	0.5
+	"Rhode Island"	"44"	"1995"	"1995"	23	1016502	2.3	2.2	1.4	3.3	0.5
+	"Rhode Island"	"44"	"1996"	"1996"	15	1020486	1.5 (Unreliable)	1.5 (Unreliable)	0.8	2.5	0.4
+	"Rhode Island"	"44"	"1997"	"1997"	14	1024948	1.4 (Unreliable)	1.4 (Unreliable)	0.7	2.3	0.4
+	"Rhode Island"	"44"	"1998"	"1998"	10	1031343	1.0 (Unreliable)	1.0 (Unreliable)	0.5	1.8	0.3
+	"South Carolina"	"45"	"1994"	"1994"	278	3706500	7.5	7.2	6.4	8.1	0.4
+	"South Carolina"	"45"	"1995"	"1995"	191	3749504	5.1	4.9	4.2	5.6	0.4
+	"South Carolina"	"45"	"1996"	"1996"	252	3797265	6.6	6.5	5.7	7.3	0.4
+	"South Carolina"	"45"	"1997"	"1997"	232	3860744	6.0	5.8	5.1	6.6	0.4
+	"South Carolina"	"45"	"1998"	"1998"	233	3920791	5.9	5.8	5.1	6.6	0.4
+	"Tennessee"	"47"	"1994"	"1994"	382	5233322	7.3	7.1	6.3	7.8	0.4
+	"Tennessee"	"47"	"1995"	"1995"	403	5328891	7.6	7.3	6.6	8.1	0.4
+	"Tennessee"	"47"	"1996"	"1996"	367	5419660	6.8	6.6	5.9	7.2	0.3
+	"Tennessee"	"47"	"1997"	"1997"	419	5501676	7.6	7.4	6.7	8.1	0.4
+	"Tennessee"	"47"	"1998"	"1998"	349	5573935	6.3	6.1	5.5	6.7	0.3
+	"Texas"	"48"	"1994"	"1994"	1568	18572123	8.4	8.0	7.6	8.4	0.2
+	"Texas"	"48"	"1995"	"1995"	1241	18967400	6.5	6.2	5.8	6.5	0.2
+	"Texas"	"48"	"1996"	"1996"	1037	19352289	5.4	5.2	4.8	5.5	0.2
+	"Texas"	"48"	"1997"	"1997"	951	19752039	4.8	4.6	4.3	4.9	0.2
+	"Texas"	"48"	"1998"	"1998"	947	20171768	4.7	4.5	4.2	4.8	0.1
+	"Utah"	"49"	"1994"	"1994"	43	1961072	2.2	2.1	1.5	2.8	0.3
+	"Utah"	"49"	"1995"	"1995"	51	2014719	2.5	2.4	1.8	3.2	0.3
+	"Utah"	"49"	"1996"	"1996"	33	2069474	1.6	1.5	1.0	2.1	0.3
+	"Utah"	"49"	"1997"	"1997"	35	2120359	1.7	1.5	1.0	2.2	0.3
+	"Utah"	"49"	"1998"	"1998"	33	2167719	1.5	1.4	0.9	1.9	0.2
+	"Virginia"	"51"	"1994"	"1994"	421	6597000	6.4	6.0	5.4	6.6	0.3
+	"Virginia"	"51"	"1995"	"1995"	363	6673422	5.4	5.2	4.6	5.7	0.3
+	"Virginia"	"51"	"1996"	"1996"	353	6754598	5.2	5.0	4.5	5.5	0.3
+	"Virginia"	"51"	"1997"	"1997"	370	6831731	5.4	5.2	4.7	5.8	0.3
+	"Virginia"	"51"	"1998"	"1998"	295	6905016	4.3	4.1	3.7	4.6	0.2
+	"Washington"	"53"	"1994"	"1994"	200	5376439	3.7	3.6	3.1	4.2	0.3
+	"Washington"	"53"	"1995"	"1995"	173	5482492	3.2	3.1	2.6	3.5	0.2
+	"Washington"	"53"	"1996"	"1996"	138	5572322	2.5	2.4	2.0	2.8	0.2
+	"Washington"	"53"	"1997"	"1997"	157	5675818	2.8	2.7	2.3	3.2	0.2
+	"Washington"	"53"	"1998"	"1998"	141	5771447	2.4	2.4	2.0	2.8	0.2
+	"West Virginia"	"54"	"1994"	"1994"	86	1820782	4.7	4.7	3.8	5.8	0.5
+	"West Virginia"	"54"	"1995"	"1995"	68	1823956	3.7	3.8	2.9	4.8	0.5
+	"West Virginia"	"54"	"1996"	"1996"	54	1823203	3.0	3.0	2.2	3.9	0.4
+	"West Virginia"	"54"	"1997"	"1997"	64	1819689	3.5	3.6	2.7	4.6	0.4
+	"West Virginia"	"54"	"1998"	"1998"	59	1816386	3.2	3.3	2.5	4.2	0.4
+	"Wisconsin"	"55"	"1994"	"1994"	144	5138097	2.8	2.7	2.3	3.2	0.2
+	"Wisconsin"	"55"	"1995"	"1995"	147	5190188	2.8	2.8	2.3	3.2	0.2
+	"Wisconsin"	"55"	"1996"	"1996"	139	5236721	2.7	2.6	2.2	3.1	0.2
+	"Wisconsin"	"55"	"1997"	"1997"	126	5272971	2.4	2.3	1.9	2.8	0.2
+	"Wisconsin"	"55"	"1998"	"1998"	114	5303586	2.1	2.1	1.7	2.5	0.2
+	"Wyoming"	"56"	"1994"	"1994"	16	480373	3.3 (Unreliable)	3.2 (Unreliable)	1.8	5.2	0.8
+	"Wyoming"	"56"	"1996"	"1996"	13	488168	2.7 (Unreliable)	2.6 (Unreliable)	1.4	4.5	0.7
+	"Wyoming"	"56"	"1997"	"1997"	11	489618	2.2 (Unreliable)	2.3 (Unreliable)	1.1	4.1	0.7
+"---"
+"Dataset: Compressed Mortality, 1979-1998"
+"Query Parameters:"
+"Title: data_reconstruction_check_pre_period"
+"Age Group: All"
+"Gender: All"
+"Injury Intent: Homicide"
+"Injury Mechanism & All Other Leading Causes: Firearm"
+"Race: All"
+"States: All"
+"Year: 1994, 1995, 1996, 1997, 1998"
+"Group By: State, Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Aug 30, 2018 2:18:58 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1979-1998. CDC WONDER On-line Database, compiled from Compressed Mortality File CMF 1968-1988, Series 20, No. 2A, 2000 and CMF"
+"1989-1998, Series 20, No. 2E, 2003. Accessed at http://wonder.cdc.gov/cmf-icd9.html on Aug 30, 2018 2:18:58 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"4. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the live births for the"
+"given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"6. Population figures in this table for 1979 and 1981-89 are intercensal estimates of the July 1 resident population of the"
+"United States. Note that the state and county population estimates for these years are not consistent with national estimates."
+"The population figures in this table for 1980 and 1990 are modified age-race-sex (MARS) April 1 census counts. The population"
+"figures for 1991-98 are bridged-race intercensal estimates of the July 1 resident population."
+"7. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Confidence-Intervals."
+"9. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Standard-Errors."

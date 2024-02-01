@@ -1,0 +1,30 @@
+---
+title: "Notes"
+author: "Noah Greifer"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+In `eepd_sim()`:
+
+* Allowing `n_sim` to do simulations within each run instead of across runs; using `n_sim = 1` gives the same results as old `eepd_sim()`.
+
+* Using `marginaleffects` functions for simulation, similar to `clarify`. Allows for more models without specifying transformations.
+
+* Using original estimates as primary estimate, with simulation just for inference. See Rainey (2023) for reason. Can recover old simulated value by setting `n_sim = 1` and looking at `out$sim`.
+
+* For `diff_k`, using offset instead of creating a new outcome. Makes it easiser to get predictions on original outcome without back transforming.
+
+* For `log`, using `log(.) ~ .` in formula instead of creating a new logged variable. When `diff_k > 0`, offset is logged.
+
+* In old `eepd_sim()`, `family`s other than `NULL` failed to backtransform predictions, so models could not be compared. New version correctly uses predictions on scale of the outcome.
+
+----------
+
+## New procedure:
+
+* Fit all models to get coefficient estimates; compute prediction error, find best model, compute ATT
+
+* Compute covariance of coefficients; draw sims; in each sim, compute prediction error, find best model, compute ATT
+
+* Inference levels: 1) no uncertainty/SEs; 2) uncertainty only using selected model (simulation inference for ATT given chosen selected model); 3) uncertainty in model selection (simulation for ATT with model selection in each iteration, but models fitted separately) 4) full uncertainty in model selection (same as 3 but including between-model covariance)
